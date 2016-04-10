@@ -6,6 +6,7 @@ public class helloGithub {
 		System.out.println("hello github");
 		System.out.println("local github");
 		System.out.println("local github01");
+		System.out.println("hello github01");
 	}
 
 }
