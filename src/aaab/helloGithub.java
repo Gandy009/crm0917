@@ -9,6 +9,7 @@ public class helloGithub {
 		System.out.println("hello github01");
 		System.out.println("local github02");
 		System.out.println("hello github 02");
+		System.out.println("local github 03");
 	}
 
 }
